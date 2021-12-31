@@ -1,0 +1,17 @@
+{
+  "name": "puppeeteer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-xlsx": "^0.20.0",
+    "puppeteer": "^13.0.1",
+    "write-excel-file": "^1.3.12"
+  }
+}

@@ -1,0 +1,74 @@
+[
+    {
+        "laptopName": "2020 Apple MacBook Pro (13.3-inch/33.78 cm, Apple M1 chip with 8‑core CPU and 8‑core GPU, 8GB RAM, 256GB SSD) - Space Grey",
+        "laptopPrice": "₹1,10,599"
+    },
+    {
+        "laptopName": "2020 Apple MacBook Air Laptop: Apple M1 chip, 13.3-inch/33.74 cm Retina Display, 8GB RAM, 512GB SSD Storage, Backlit Keyboard, FaceTime HD Camera, Touch ID. Works with iPhone/iPad; Silver",
+        "laptopPrice": "₹1,09,990"
+    },
+    {
+        "laptopName": "2020 Apple MacBook Pro (13.3-inch/33.78 cm, Apple M1 chip with 8‑core CPU and 8‑core GPU, 8GB RAM, 512GB SSD) - Space Grey",
+        "laptopPrice": "₹1,31,990"
+    },
+    {
+        "laptopName": "2020 Apple MacBook Air Laptop: Apple M1 chip, 13.3-inch/33.74 cm Retina Display, 8GB RAM, 512GB SSD Storage, Backlit Keyboard, FaceTime HD Camera, Touch ID. Works with iPhone/iPad; Silver",
+        "laptopPrice": "₹1,09,990"
+    },
+    {
+        "laptopName": "Lenovo Legion5 Pro 11th Gen Intel Core i7 16\" (40.64cm) QHD 16:10 IPS Gaming Laptop(16GB/1TB SSD/RTX 3060 6GB Graphics/165Hz/Windows 11/MS Office/ RGB Backlit Keyboard/Stingray/2.5Kg), 82JD005KIN",
+        "laptopPrice": "₹1,47,920"
+    },
+    {
+        "laptopName": "Microsoft Surface Laptop Studio - 14.4\" Touchscreen - Intel® Core™ i7 - 32GB Memory - 2TB SSD - Platinum",
+        "laptopPrice": "₹3,73,999"
+    },
+    {
+        "laptopName": "Mi Notebook Pro QHD+ IPS Anti Glare Display Intel Core i5-11300H 11th Gen 14-inch(35.56 cms) Thin and Light Laptop (16GB/512GB SSD/Iris Xe Graphics/Win 10/Backlit KB/Fingerprint Sensor/1.4 Kg)",
+        "laptopPrice": "₹60,999"
+    },
+    {
+        "laptopName": "RedmiBook Pro Core i5 11th Gen - (8 GB/512 GB SSD/Windows 10 Home) Thin and Light Laptop (15.6 inch, Charcoal Gray, 1.8 kg, with MS Office)",
+        "laptopPrice": "₹49,999"
+    },
+    {
+        "laptopName": "ASUS ZenBook Flip 13 OLED, Intel Core i5-1135G7 11th Gen, 13.3\" FHD Touch 2-in-1 Laptop (8GB/512GB SSD + 32GB Optane Memory/Windows 10/Office 2019/Iris Xᵉ Graphics/Pine Grey/1.3 kg), UX363EA-HP501TS",
+        "laptopPrice": "₹88,990"
+    },
+    {
+        "laptopName": "LG Gram 16-inches Ultra-Light Intel Evo 11th Gen Core i7,16 GB RAM, 512 GB SSD, New Win-11 Preload, Iris Xe Graphics, USC -C x 2 (with Power), 1.19 kg, 3 Yr Warranty (16Z90P-G.AH85A2, Black)",
+        "laptopPrice": "₹91,999"
+    },
+    {
+        "laptopName": "Lenovo IdeaPad Slim 5 Pro 11th Gen Intel Core i5 14\"(35.56cm) QHD IPS 300Nits Thin & Light Laptop (16GB/512GB SSD/Windows 10 Home/MS Office/Backlit Keyboard/3Yr Warranty/Storm Grey/1.38Kg), 82L3009LIN",
+        "laptopPrice": "₹67,990"
+    },
+    {
+        "laptopName": "Lenovo ThinkBook 13s Intel 11th Gen Core i7 13.3\"(33.78 cm) WQXGA IPS 300 nits 100% sRGB Dolby Vision Thin and Light Laptop (16GB/512GB SSD/Windows 10/MS Office/FPR/Mineral Grey/1.26 Kg), 20V9A05FIH",
+        "laptopPrice": "₹79,990"
+    },
+    {
+        "laptopName": "Microsoft Surface Laptop 4 11th Gen Intel® Core™ i5-1135G7 13.5 inch Touchscreen Laptop (16GB/512GB SSD/Windows 10 Home /Iris™ Xe Graphics /Matte Black/1.288 kg, 25% Off on Microsoft 365)",
+        "laptopPrice": "₹1,51,219"
+    },
+    {
+        "laptopName": "Mi Notebook Ultra 3.2K resolution display Intel Core i5-11300H 11th Gen 15.6-inch(39.62 cm) Thin and Light laptop (16GB/512GB SSD/Iris Xe Graphics/Win 10/MS Office/Backlit KB/Fingerprint sensor/1.7Kg)",
+        "laptopPrice": "₹64,999"
+    },
+    {
+        "laptopName": "Dell 15 (2021) i5-10200H Gaming Laptop, 8Gb RAM, 512Gb SSD, 15.6” (39.62 cms) FHD 120Hz 250 nits Display, NVIDIA GTX 1650 4GB Graphics, Win 10, Ascent Solid Color (G15 5510, D560452WIN9A)",
+        "laptopPrice": "₹60,990"
+    },
+    {
+        "laptopName": "ASUS Zenbook 13 Intel Core i5-1135G7 11th Gen 13.3 inches OLED FHD OLED, Business Laptop (8GB/512GB SSD/Office 2019/Windows 10 Home/Iris Xe Graphics/Grey/1.14 Kg), UX325EA-KG502TS",
+        "laptopPrice": "₹67,990"
+    },
+    {
+        "laptopName": "Lenovo IdeaPad 3 10th Gen Intel Core i3 15.6 HD Thin and Light Laptop (8GB/1TB HDD/Windows 11/MS Office 2021/2Yr Warranty/Platinum Grey/1.7Kg), 81WB01BCIN",
+        "laptopPrice": "₹37,490"
+    },
+    {
+        "laptopName": "Lenovo IdeaPad Slim 1 Intel Celeron N4020 11.6\" (29.46cm) HD Thin & Light Laptop (4GB/256 GB SSD/Windows 10/MS Office/Platinum Grey/1.2Kg), 81VT0071IN",
+        "laptopPrice": "₹26,990"
+    }
+]
